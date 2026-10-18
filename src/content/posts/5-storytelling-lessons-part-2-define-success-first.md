@@ -72,7 +72,7 @@ Pick one as your main job.
 ### Write the pitch and the bookends
 
 - Write a central idea in about 45 words, plus a working title.
-- Write the opening and ending you *imagine*. McSill says this speeds up the whole book.
+- Write the opening and ending you _imagine_. McSill says this speeds up the whole book.
 
 ### Stop talking, start writing
 
@@ -80,7 +80,7 @@ He insists on a "leap of faith": writing beats announcing. Better to find out yo
 
 ## Skip the Book, Do This
 
-Set a timer for five minutes. Write your book or project idea in 45 words or fewer, then add one sentence: *"My reader will change by..."*
+Set a timer for five minutes. Write your book or project idea in 45 words or fewer, then add one sentence: _"My reader will change by..."_
 
 If the sentence won't come, you've found your homework.
 

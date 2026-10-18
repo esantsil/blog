@@ -53,7 +53,7 @@ Every story needs:
 2. Who or what blocks them.
 3. The disaster that happens when they push too hard.
 4. How the character changes.
-5. How the *reader* changes by watching.
+5. How the _reader_ changes by watching.
 
 ### Dissecting a spam email
 
@@ -61,7 +61,7 @@ McSill takes a real marketing email and annotates it. The tricks, in plain words
 
 - Uses your name, so it feels personal.
 - Frames the offer as a gift.
-- Makes *you* the character in the story.
+- Makes _you_ the character in the story.
 - Says "free," so there's no cost to say yes.
 - Limits your options.
 - Ends with a command so you act before you think.

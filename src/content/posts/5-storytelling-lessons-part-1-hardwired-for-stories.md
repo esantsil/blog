@@ -19,7 +19,7 @@ You bought a writing book. Page one starts 200,000 years ago, in Africa, around 
 
 Lovely. Atmospheric. Still no advice on how to write anything.
 
-I read all 398 pages of James McSill's *5 Storytelling Lessons: The Bestseller* so you can skip to the useful part. It's chatty, and it circles back to the same ideas often. The author admits that himself.
+I read all 398 pages of James McSill's _5 Storytelling Lessons: The Bestseller_ so you can skip to the useful part. It's chatty, and it circles back to the same ideas often. The author admits that himself.
 
 It also has real gold in it. Here's the first nugget.
 
@@ -52,7 +52,7 @@ Skipping all of that costs you nothing.
 
 ### Stories are about reaction, not approval
 
-The whole lesson boils down to this: a story works when the audience *reacts*.
+The whole lesson boils down to this: a story works when the audience _reacts_.
 
 Love it or hate it, fine. The only real failure is shrugging.
 
@@ -69,12 +69,12 @@ McSill's recipe for a story that grips, in six steps:
 
 Here's how that maps onto the reader's experience:
 
-| Stage | What you do | What the reader feels |
-|---|---|---|
-| Open | Plant a dilemma | "Wait, what?" |
-| Middle | Drip answers, add complications | "Tell me more." |
-| Peak | Fake the final reveal | "I can't stand this." |
-| Close | Deliver the missing pieces | "Worth it." |
+| Stage  | What you do                     | What the reader feels |
+| ------ | ------------------------------- | --------------------- |
+| Open   | Plant a dilemma                 | "Wait, what?"         |
+| Middle | Drip answers, add complications | "Tell me more."       |
+| Peak   | Fake the final reveal           | "I can't stand this." |
+| Close  | Deliver the missing pieces      | "Worth it."           |
 
 The reader should leave a little bruised and very satisfied, and ideally wanting more.
 

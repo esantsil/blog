@@ -60,7 +60,7 @@ McSill says most plots can lose 20 to 40% of their content. Keep every version s
 
 ### Find the voice
 
-His exercise: describe your evening in 40 to 55 words without *to be* verbs. That's your voice. Now rewrite the same events in a character's voice.
+His exercise: describe your evening in 40 to 55 words without _to be_ verbs. That's your voice. Now rewrite the same events in a character's voice.
 
 Prefer concrete images over flat statements. "Maria cried" tells; a specific image shows.
 
@@ -88,4 +88,4 @@ Here's the whole book in six lines:
 
 That's 398 pages in 60 seconds. Go write something.
 
-*Bookless: I read the books so you don't have to.*
+_Bookless: I read the books so you don't have to._

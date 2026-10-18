@@ -1,4 +1,5 @@
 #!/usr/bin/env sh
+echo "test"
 
 # New files, add/update the pubDatetime
 git diff --cached --name-status | egrep -i "^(A).*\.(md)$" | while read a b; do

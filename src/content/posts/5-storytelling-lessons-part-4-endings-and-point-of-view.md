@@ -45,7 +45,7 @@ He also takes a detour into narrative point of view, which he says can make or r
 
 ### Plan from the end
 
-"End" means two things: where the drama finishes, and what you want the reader to *do* afterward (buy, keep reading, finish your talk).
+"End" means two things: where the drama finishes, and what you want the reader to _do_ afterward (buy, keep reading, finish your talk).
 
 His order of work:
 
@@ -62,10 +62,10 @@ Choose the moment after which nothing major happens. Then name your main conflic
 
 ### Three ways to land it
 
-| Method | How it works |
-|---|---|
-| **Explain** | Recap the character's journey, say why the events mattered, answer "what's this to the reader?" Or speak directly in first person. |
-| **Show** | Use action and sensory images instead of explaining. Metaphors, open endings or a repeated motif all work here. |
+| Method               | How it works                                                                                                                             |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| **Explain**          | Recap the character's journey, say why the events mattered, answer "what's this to the reader?" Or speak directly in first person.       |
+| **Show**             | Use action and sensory images instead of explaining. Metaphors, open endings or a repeated motif all work here.                          |
 | **Follow the logic** | Ask "what happens next?" and "why in this order?" The ending must fit what came before. Add some surprise, so it isn't just predictable. |
 
 One of his examples: in the Odyssey, the monsters matter less than what the hero learns about himself.
@@ -87,6 +87,6 @@ For bonus points, rewrite one paragraph of your own work from a different point 
 
 ## Up Next
 
-Time for the part McSill clearly enjoys most: *why* stories hook us.
+Time for the part McSill clearly enjoys most: _why_ stories hook us.
 
 He compares it to causing pain and then soothing it, dissects a spam email, and hands you a two-word test against hype. See you in [Part 5: The Bite-and-Soothe Engine](/posts/5-storytelling-lessons-part-5-pain-and-relief/).
