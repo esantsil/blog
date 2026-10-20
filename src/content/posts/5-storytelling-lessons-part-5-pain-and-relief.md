@@ -3,20 +3,20 @@ title: "The Bite-and-Soothe Engine: Why Readers Pay for Pain (and How to Spot Hy
 description: "Part 5 of the Bookless summary of McSill's storytelling book: the 5 elements of drama, the action-reaction scene loop, and the two-word test that deflates hype."
 tags: ["book-summary", "storytelling", "copywriting", "persuasion"]
 pubDatetime: 2026-10-18T19:21:04Z
-modDatetime:
+modDatetime: 2026-10-20T14:34:15Z
 draft: false
 ---
 
 > **Series: 5 Storytelling Lessons, Bookless Edition**
 >
-> - [Part 1: Hardwired for Stories](/posts/5-storytelling-lessons-part-1-hardwired-for-stories/)
-> - [Part 2: Define Success First](/posts/5-storytelling-lessons-part-2-define-success-first/)
-> - [Part 3: The Story Blueprint](/posts/5-storytelling-lessons-part-3-story-blueprint/)
-> - [Part 4: Endings and Point of View](/posts/5-storytelling-lessons-part-4-endings-and-point-of-view/)
+> - [Part 1: Hardwired for Stories](/blog/posts/5-storytelling-lessons-part-1-hardwired-for-stories/)
+> - [Part 2: Define Success First](/blog/posts/5-storytelling-lessons-part-2-define-success-first/)
+> - [Part 3: The Story Blueprint](/blog/posts/5-storytelling-lessons-part-3-story-blueprint/)
+> - [Part 4: Endings and Point of View](/blog/posts/5-storytelling-lessons-part-4-endings-and-point-of-view/)
 >
 > **Part 5 of 6: The Bite-and-Soothe Engine** (you are here)
 >
-> - [Part 6: Rewrite Ruthlessly](/posts/5-storytelling-lessons-part-6-rewrite-ruthlessly/)
+> - [Part 6: Rewrite Ruthlessly](/blog/posts/5-storytelling-lessons-part-6-rewrite-ruthlessly/)
 
 McSill's theory of why we read is blunt: we're either in pain and want it gone, or we fear pain and want protection.
 
@@ -97,4 +97,4 @@ Then ask "how so?" of its biggest claim. Writing something persuasive of your ow
 
 You've got structure, ending, and engine. Now the part nobody wants to hear: your first draft isn't the book.
 
-McSill's rewriting rules are blunt, and they'll save you months. See you in [Part 6: Rewrite Ruthlessly](/posts/5-storytelling-lessons-part-6-rewrite-ruthlessly/).
+McSill's rewriting rules are blunt, and they'll save you months. See you in [Part 6: Rewrite Ruthlessly](/blog/posts/5-storytelling-lessons-part-6-rewrite-ruthlessly/).

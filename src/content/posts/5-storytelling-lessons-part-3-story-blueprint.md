@@ -3,20 +3,20 @@ title: "The Story Blueprint: A 2-Sentence Test and a 5-Question Premise"
 description: "Part 3 of the Bookless summary of McSill's storytelling book: tell a story from a statement, map the 8-step journey, and write a 5-point premise."
 tags: ["book-summary", "storytelling", "plot", "writing-tips"]
 pubDatetime: 2026-10-18T19:21:04Z
-modDatetime:
+modDatetime: 2026-10-20T14:34:15Z
 draft: false
 ---
 
 > **Series: 5 Storytelling Lessons, Bookless Edition**
 >
-> - [Part 1: Hardwired for Stories](/posts/5-storytelling-lessons-part-1-hardwired-for-stories/)
-> - [Part 2: Define Success First](/posts/5-storytelling-lessons-part-2-define-success-first/)
+> - [Part 1: Hardwired for Stories](/blog/posts/5-storytelling-lessons-part-1-hardwired-for-stories/)
+> - [Part 2: Define Success First](/blog/posts/5-storytelling-lessons-part-2-define-success-first/)
 >
 > **Part 3 of 6: The Story Blueprint** (you are here)
 >
-> - [Part 4: Endings and Point of View](/posts/5-storytelling-lessons-part-4-endings-and-point-of-view/)
-> - [Part 5: The Bite-and-Soothe Engine](/posts/5-storytelling-lessons-part-5-pain-and-relief/)
-> - [Part 6: Rewrite Ruthlessly](/posts/5-storytelling-lessons-part-6-rewrite-ruthlessly/)
+> - [Part 4: Endings and Point of View](/blog/posts/5-storytelling-lessons-part-4-endings-and-point-of-view/)
+> - [Part 5: The Bite-and-Soothe Engine](/blog/posts/5-storytelling-lessons-part-5-pain-and-relief/)
+> - [Part 6: Rewrite Ruthlessly](/blog/posts/5-storytelling-lessons-part-6-rewrite-ruthlessly/)
 
 Lesson 3 is the longest chapter in the book. It's also the one with the most structure inside it.
 
@@ -100,4 +100,4 @@ If one answer is mushy, that's the scene or section to fix first.
 
 You have a structure. Now, how do you start and finish?
 
-McSill has three methods for endings, a surprising trick for beginnings, and a short course on point of view that spares you the literature class. See you in [Part 4: Endings and Point of View](/posts/5-storytelling-lessons-part-4-endings-and-point-of-view/).
+McSill has three methods for endings, a surprising trick for beginnings, and a short course on point of view that spares you the literature class. See you in [Part 4: Endings and Point of View](/blog/posts/5-storytelling-lessons-part-4-endings-and-point-of-view/).

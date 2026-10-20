@@ -3,17 +3,17 @@ title: "Write Fast, Cut 30%: The Rewrite Rules Nobody Wants to Hear"
 description: "Part 6 and finale of the Bookless summary of McSill's storytelling book: five rewrite criteria, how to find your voice, and outlines for how-to books and novels."
 tags: ["book-summary", "writing", "editing", "storytelling"]
 pubDatetime: 2026-10-18T19:21:04Z
-modDatetime:
+modDatetime: 2026-10-20T14:34:16Z
 draft: false
 ---
 
 > **Series: 5 Storytelling Lessons, Bookless Edition**
 >
-> - [Part 1: Hardwired for Stories](/posts/5-storytelling-lessons-part-1-hardwired-for-stories/)
-> - [Part 2: Define Success First](/posts/5-storytelling-lessons-part-2-define-success-first/)
-> - [Part 3: The Story Blueprint](/posts/5-storytelling-lessons-part-3-story-blueprint/)
-> - [Part 4: Endings and Point of View](/posts/5-storytelling-lessons-part-4-endings-and-point-of-view/)
-> - [Part 5: The Bite-and-Soothe Engine](/posts/5-storytelling-lessons-part-5-pain-and-relief/)
+> - [Part 1: Hardwired for Stories](/blog/posts/5-storytelling-lessons-part-1-hardwired-for-stories/)
+> - [Part 2: Define Success First](/blog/posts/5-storytelling-lessons-part-2-define-success-first/)
+> - [Part 3: The Story Blueprint](/blog/posts/5-storytelling-lessons-part-3-story-blueprint/)
+> - [Part 4: Endings and Point of View](/blog/posts/5-storytelling-lessons-part-4-endings-and-point-of-view/)
+> - [Part 5: The Bite-and-Soothe Engine](/blog/posts/5-storytelling-lessons-part-5-pain-and-relief/)
 >
 > **Part 6 of 6: Rewrite Ruthlessly** (you are here, finale)
 

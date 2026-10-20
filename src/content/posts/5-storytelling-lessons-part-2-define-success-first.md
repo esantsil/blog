@@ -2,21 +2,21 @@
 title: "Stop Trying to Write a Bestseller (Do This Instead)"
 description: "Part 2 of the Bookless summary of James McSill's storytelling book: why 'success' needs your own definition, and how to pick your message before writing."
 pubDatetime: 2026-10-18T19:21:04Z
-modDatetime:
+modDatetime: 2026-10-20T14:34:15Z
 tags: ["book-summary", "storytelling", "writing", "bestseller"]
 draft: false
 ---
 
 > **Series: 5 Storytelling Lessons, Bookless Edition**
 >
-> - [Part 1: Hardwired for Stories](/posts/5-storytelling-lessons-part-1-hardwired-for-stories/)
+> - [Part 1: Hardwired for Stories](/blog/posts/5-storytelling-lessons-part-1-hardwired-for-stories/)
 >
 > **Part 2 of 6: Define Success First** (you are here)
 >
-> - [Part 3: The Story Blueprint](/posts/5-storytelling-lessons-part-3-story-blueprint/)
-> - [Part 4: Endings and Point of View](/posts/5-storytelling-lessons-part-4-endings-and-point-of-view/)
-> - [Part 5: The Bite-and-Soothe Engine](/posts/5-storytelling-lessons-part-5-pain-and-relief/)
-> - [Part 6: Rewrite Ruthlessly](/posts/5-storytelling-lessons-part-6-rewrite-ruthlessly/)
+> - [Part 3: The Story Blueprint](/blog/posts/5-storytelling-lessons-part-3-story-blueprint/)
+> - [Part 4: Endings and Point of View](/blog/posts/5-storytelling-lessons-part-4-endings-and-point-of-view/)
+> - [Part 5: The Bite-and-Soothe Engine](/blog/posts/5-storytelling-lessons-part-5-pain-and-relief/)
+> - [Part 6: Rewrite Ruthlessly](/blog/posts/5-storytelling-lessons-part-6-rewrite-ruthlessly/)
 
 Every writing guru promises you a bestseller. McSill opens lesson 2 by saying the quiet part out loud: you can't engineer one.
 
@@ -90,4 +90,4 @@ If the sentence won't come, you've found your homework.
 
 You know why you're writing. Now: what separates a story from a mere statement?
 
-McSill has a two-sentence test and a five-question premise that editors can use to spot a weak manuscript fast. See you in [Part 3: The Story Blueprint](/posts/5-storytelling-lessons-part-3-story-blueprint/).
+McSill has a two-sentence test and a five-question premise that editors can use to spot a weak manuscript fast. See you in [Part 3: The Story Blueprint](/blog/posts/5-storytelling-lessons-part-3-story-blueprint/).

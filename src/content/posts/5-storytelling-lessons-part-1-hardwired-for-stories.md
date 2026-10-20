@@ -2,7 +2,7 @@
 title: "You're Already a Storyteller: The 6-Step Recipe for Making Readers Beg for More"
 description: "James McSill's 5 Storytelling Lessons: The Bestseller, distilled. Part 1: why humans are wired for stories and the 6-step 'emotional gap' recipe that keeps readers hooked."
 pubDatetime: 2026-10-18T19:21:04Z
-modDatetime:
+modDatetime: 2026-10-20T14:34:15Z
 tags: ["book-summary", "storytelling", "writing", "james-mcsill"]
 draft: false
 ---
@@ -11,11 +11,11 @@ draft: false
 >
 > **Part 1 of 6: Hardwired for Stories** (you are here)
 >
-> - [Part 2: Define Success First](/posts/5-storytelling-lessons-part-2-define-success-first/)
-> - [Part 3: The Story Blueprint](/posts/5-storytelling-lessons-part-3-story-blueprint/)
-> - [Part 4: Endings and Point of View](/posts/5-storytelling-lessons-part-4-endings-and-point-of-view/)
-> - [Part 5: The Bite-and-Soothe Engine](/posts/5-storytelling-lessons-part-5-pain-and-relief/)
-> - [Part 6: Rewrite Ruthlessly](/posts/5-storytelling-lessons-part-6-rewrite-ruthlessly/)
+> - [Part 2: Define Success First](/blog/posts/5-storytelling-lessons-part-2-define-success-first/)
+> - [Part 3: The Story Blueprint](/blog/posts/5-storytelling-lessons-part-3-story-blueprint/)
+> - [Part 4: Endings and Point of View](/blog/posts/5-storytelling-lessons-part-4-endings-and-point-of-view/)
+> - [Part 5: The Bite-and-Soothe Engine](/blog/posts/5-storytelling-lessons-part-5-pain-and-relief/)
+> - [Part 6: Rewrite Ruthlessly](/blog/posts/5-storytelling-lessons-part-6-rewrite-ruthlessly/)
 
 You bought a writing book. Page one starts 200,000 years ago, in Africa, around a fire.
 
@@ -92,4 +92,4 @@ Underline the first sentence that makes a reader think "wait, what?" If there is
 
 Before McSill teaches you any technique, he asks something awkward: **what do you actually want from this book?**
 
-His answer to "do you want a bestseller?" may annoy you. See you in [Part 2: Define Success First](/posts/5-storytelling-lessons-part-2-define-success-first/).
+His answer to "do you want a bestseller?" may annoy you. See you in [Part 2: Define Success First](/blog/posts/5-storytelling-lessons-part-2-define-success-first/).

@@ -3,20 +3,20 @@ title: "Start at the End: Endings and Point of View, Minus the Literature Class"
 description: "Part 4 of the Bookless summary of McSill's storytelling book: plan from the ending, use his 3 methods to land it, and pick a point of view that doesn't wear readers out."
 tags: ["book-summary", "storytelling", "endings", "point-of-view"]
 pubDatetime: 2026-10-18T19:21:04Z
-modDatetime:
+modDatetime: 2026-10-20T14:34:15Z
 draft: false
 ---
 
 > **Series: 5 Storytelling Lessons, Bookless Edition**
 >
-> - [Part 1: Hardwired for Stories](/posts/5-storytelling-lessons-part-1-hardwired-for-stories/)
-> - [Part 2: Define Success First](/posts/5-storytelling-lessons-part-2-define-success-first/)
-> - [Part 3: The Story Blueprint](/posts/5-storytelling-lessons-part-3-story-blueprint/)
+> - [Part 1: Hardwired for Stories](/blog/posts/5-storytelling-lessons-part-1-hardwired-for-stories/)
+> - [Part 2: Define Success First](/blog/posts/5-storytelling-lessons-part-2-define-success-first/)
+> - [Part 3: The Story Blueprint](/blog/posts/5-storytelling-lessons-part-3-story-blueprint/)
 >
 > **Part 4 of 6: Endings and Point of View** (you are here)
 >
-> - [Part 5: The Bite-and-Soothe Engine](/posts/5-storytelling-lessons-part-5-pain-and-relief/)
-> - [Part 6: Rewrite Ruthlessly](/posts/5-storytelling-lessons-part-6-rewrite-ruthlessly/)
+> - [Part 5: The Bite-and-Soothe Engine](/blog/posts/5-storytelling-lessons-part-5-pain-and-relief/)
+> - [Part 6: Rewrite Ruthlessly](/blog/posts/5-storytelling-lessons-part-6-rewrite-ruthlessly/)
 
 Writers love to start at the beginning. Sensible, obvious, and, according to McSill, backwards.
 
@@ -91,4 +91,4 @@ For bonus points, rewrite one paragraph of your own work from a different point 
 
 Time for the part McSill clearly enjoys most: _why_ stories hook us.
 
-He compares it to causing pain and then soothing it, dissects a spam email, and hands you a two-word test against hype. See you in [Part 5: The Bite-and-Soothe Engine](/posts/5-storytelling-lessons-part-5-pain-and-relief/).
+He compares it to causing pain and then soothing it, dissects a spam email, and hands you a two-word test against hype. See you in [Part 5: The Bite-and-Soothe Engine](/blog/posts/5-storytelling-lessons-part-5-pain-and-relief/).
